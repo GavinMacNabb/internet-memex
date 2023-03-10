@@ -9,4 +9,22 @@
 
 `Thoughts`
 
+
+
 `Ideas`
+
+## First Evaluation
+`Sources`
+
+[[@shivkumarFromClayTabletstotheWeb]]
+[[@makbonnieHowThePageMatters]]
+[[@mikecaulfieldTheGardenandtheStream]]
+[[@wayneaweigandTheAmherstMethod]]
+[[@vannevarbushAsWeMayThink]]
+
+`Thoughts`
+
+
+
+`Ideas`
+
