@@ -11,8 +11,10 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v2
         with:
+          token: ${{ secret.PAT }}
           python-version: 3.x
       - run: pip install mkdocs-material
       - run: pip install mkdocs-roamlinks-plugin
       - run: pip install mkdocs-mermaid2-plugin
       - run: mkdocs gh-deploy --force
+        
