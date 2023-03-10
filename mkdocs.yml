@@ -1,4 +1,4 @@
-site_name: obsidian-mkdocs template
+site_name: Gavin's Obsidian Public Memex
 
 theme:
     name: 'material'
