@@ -103,5 +103,5 @@ In this section of the memex, we will explore the technological developments tha
 
 [[Oldest known cave painting]]
 [[First source of light]] 
-[[History of the Internet (Start Here)]] 
+[[obsidian-memex/docs/index]] 
 [[First source of light]] (200,000 Years ago)

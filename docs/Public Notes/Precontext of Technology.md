@@ -30,4 +30,4 @@ Link to the originating literature note.
 
 ### Related Links
 
-[[History of the Internet (Start Here)]] 
+[[obsidian-memex/docs/index]] 

@@ -17,7 +17,7 @@ In this sectionwhich explores several influential works related to information t
 - "mch dstrctn cn hppn t mssg bfr t s nrdbl" - [[Language features redundancy]]. Key element in the creation of digital communication
 - [[Bandwith]] What happens when messages are competing in the same space?
 - Fundamental [[Problems of Communication]] that have profound consequences.
-- [[History of the Internet (Start Here)]] is a history of a particular package of technologies. 
+- [[obsidian-memex/docs/index]] is a history of a particular package of technologies. 
 - What frames of internet history can we study
 - [[Precontext of Technology]]
 - [[The first internet]]
@@ -239,4 +239,4 @@ People
 - For these works to exist, what else had to exist
 
 
-[[History of the Internet (Start Here)]] 
+[[obsidian-memex/docs/index]] 
