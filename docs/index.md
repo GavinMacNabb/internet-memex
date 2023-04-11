@@ -12,6 +12,3 @@ The history of the internet is a fascinating tale of innovation and technologica
 
 - [[Part 3 - The Internet]] (1989 to Today) Finally, we will look at the modern internet, including the rise of social media, the growth of e-commerce, and the ongoing debates about privacy, security, and regulation in the digital age.
 
-[[Part 4 - Reflecting on the Internet ]]
-
-#todo/contexts - Add some details about the different places in history to map these ideas
