@@ -1,3 +1,5 @@
+![[Pasted image 20230409133404.png]]
+
 From the ARPANET until the Modern Internet, below I've linked my notes and readings to follow some new ideas, technology, and people that shaped the internet as we use it today.
 
 ---
