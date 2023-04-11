@@ -2,7 +2,6 @@
 
 ![[Pasted image 20230411170651.png]]
 
-Above is a screenshot of my thoughts ^
 
 The history of the internet is a fascinating tale of innovation and technological advancement that has transformed the way we communicate, work, and access information. In this memex, we will explore the evolution of the internet in three parts: a precontext of the history of technology, a precontext of the internet, and the modern internet we know today.
 
@@ -11,4 +10,3 @@ The history of the internet is a fascinating tale of innovation and technologica
 - [[Part 2 - Precontext to the Internet]] (1945 to 1989) We will then delve into the early days of the internet, from the creation of ARPANET to the emergence of the World Wide Web, and explore the key players and technological breakthroughs that enabled the internet to become the ubiquitous and essential tool it is today.
 
 - [[Part 3 - The Internet]] (1989 to Today) Finally, we will look at the modern internet, including the rise of social media, the growth of e-commerce, and the ongoing debates about privacy, security, and regulation in the digital age.
-
