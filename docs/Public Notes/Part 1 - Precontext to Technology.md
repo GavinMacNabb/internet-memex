@@ -1,12 +1,16 @@
 In this sectionwhich explores several influential works related to information technology and knowledge management.  By examining these texts, we hope to gain a deeper understanding of how our relationship with information has evolved over time, and how we might continue to improve our ability to manage and share knowledge in the future.
 
 ---
-### #sources
+### Sources
 
 [[@bushvannevarAsWeMayThink1945]] 
+
 [[@caulfieldmikeTheGardenandtheStream2015]] 
+
 [[@makbonnieHowThePageMatters2011]] 
+
 [[@wiegandwayneTheAmherstMethod1998]] 
+
 [[@kumarshiveFromClayTabletstotheWeb2013]] 
 
 ---

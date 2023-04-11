@@ -1,6 +1,7 @@
 
 
 ![[Pasted image 20230411170651.png]]
+
 Above is a screenshot of my thoughts ^
 
 The history of the internet is a fascinating tale of innovation and technological advancement that has transformed the way we communicate, work, and access information. In this memex, we will explore the evolution of the internet in three parts: a precontext of the history of technology, a precontext of the internet, and the modern internet we know today.
