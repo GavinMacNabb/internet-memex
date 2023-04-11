@@ -1,0 +1,7 @@
+
+### Abstract
+>The living mycelium networks are capable of efficient sensorial fusion over very large areas and distributed decision making. The information processing in the mycelium networks is implemented via propagation of electrical and chemical signals en pair with morphological changes in the mycelium structure. These information processing mechanisms are manifested in experimental laboratory findings that show that the mycelium networks exhibit rich dynamics of neuron-like spiking behaviour and a wide range of non-linear electrical properties. On an example of a single real colony of _Aspergillus niger_, we demonstrate that the non-linear transformation of electrical signals and trains of extracellular voltage spikes can be used to implement logical gates and circuits. The approaches adopted include numerical modelling of excitation propagation on the mycelium network, representation of the mycelium network as a resistive and capacitive network and an experimental laboratory study on mining logical circuits in mycelium bound composites.
+
+This article finds that mycelium send electronic signals! I've seen people make music with this also... Mushrooms appear to be the original networks!
+
+source: https://link.springer.com/article/10.1007/s11787-022-00318-4

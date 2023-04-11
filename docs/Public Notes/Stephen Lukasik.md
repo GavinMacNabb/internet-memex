@@ -1,0 +1,3 @@
+Stephen J. Lukasik was a prominent American physicist and engineer who contributed significantly to the development of national defense technologies, including the creation of the Strategic Defense Initiative. He held numerous high-ranking positions in government and academia and was widely recognized for his expertise in technology policy and national security.
+
+source: https://en.wikipedia.org/wiki/Stephen_J._Lukasik

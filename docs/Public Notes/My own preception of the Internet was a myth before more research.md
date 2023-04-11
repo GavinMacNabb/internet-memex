@@ -1,0 +1,3 @@
+One fatal flaw from my understand of the internet was my ignorance of how [[The Internet Coming Together]]. I never did the research to learn of the origins of the technology that helped build[[ the infrastructure for the internet]] but I wouldn't hold myself accountable for this. Their needs to be a better system for teaching this to the next generation!
+
+Esspecially for the future of Computer Scientists, these innovations that took Centuries to create will be taught to the next generation and, and as we learn more the bar to enter computer science continues to get more complicated.

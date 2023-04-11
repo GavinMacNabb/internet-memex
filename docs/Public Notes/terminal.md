@@ -1,0 +1,1 @@
+a keyboard/teletype/whatever for transmitting instructions, displaying results

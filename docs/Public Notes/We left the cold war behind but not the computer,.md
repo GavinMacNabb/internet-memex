@@ -1,0 +1,3 @@
+We can link this idea back to the [[Telephone Game]]...
+
+A metaphore for how we started with an idea for computers but ended up with social media

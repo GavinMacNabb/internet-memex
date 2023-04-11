@@ -1,0 +1,1 @@
+technique for using the speed of the computer to present the appearance of multiple simultaneous users usually done on a [[terminal]] 

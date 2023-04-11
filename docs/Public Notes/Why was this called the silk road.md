@@ -1,0 +1,2 @@
+
+The Silk Road was named after the valuable silk trade that took place along its routes, but it was also a conduit for other goods such as spices, precious stones, metals, textiles, and other luxury goods. The Silk Road was not just a route for trade, but also for the exchange of ideas, cultures, and religions between the East and the West. This level of networking would probably be considered the first huge exchange of culture

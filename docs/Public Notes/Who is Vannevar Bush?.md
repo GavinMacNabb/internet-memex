@@ -1,0 +1,3 @@
+Vannevar Bush (1890-1974) was an American engineer, inventor, and science administrator who played a significant role in the development of science and technology in the United States during the 20th century. He is best known for his work on the development of analog computing and the concept of the "memex," a hypothetical device that would allow individuals to access and manipulate vast amounts of information. Bush also played a key role in the establishment of the National Science Foundation and was involved in the development of the Manhattan Project during World War II.
+
+source: https://en.wikipedia.org/wiki/Vannevar_Bush

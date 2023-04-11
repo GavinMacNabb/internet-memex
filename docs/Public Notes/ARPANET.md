@@ -1,0 +1,3 @@
+The ARPANET, created in the late 1960s by the US Department of Defense's Advanced Research Projects Agency (ARPA), was the first operational packet switching network and the precursor to today's internet. The ARPANET initially connected four university research centers and was designed to provide a decentralized and redundant communication system that could withstand nuclear attacks. Its early success led to the development of email, file transfer protocols, and remote access technologies. The ARPANET's design principles and protocols became the basis for the internet we use today, and its impact on modern society cannot be overstated.
+
+source: https://en.wikipedia.org/wiki/ARPANET

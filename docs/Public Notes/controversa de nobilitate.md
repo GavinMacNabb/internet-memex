@@ -1,0 +1,2 @@
+The "Controversia de nobilitate" was a 14th-century philosophical debate on whether noble birth or personal merit was more important in determining a person's worth and status in society.
+source: [[@makbonnieHowThePageMatters2011]] 

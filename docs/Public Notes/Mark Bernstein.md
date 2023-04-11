@@ -1,0 +1,3 @@
+Mark Bernstein is an American computer scientist, software designer, and writer who is known for his work in the field of hypertext and electronic literature. He is the co-founder and chief scientist of Eastgate Systems, a company that produces software for hypertext authoring and publishing. Bernstein is also the creator of Tinderbox, a personal content management system that allows users to create, organize, and analyze notes, ideas, and other digital content. In addition to his work in software development, Bernstein is also a writer and has authored several works of electronic literature, including "Uncle Buddy's Phantom Funhouse," which won the first Eastgate Systems Electronic Literature award in 1999.
+
+source: https://www.markbernstein.org/CV/MarkBernstein.html

@@ -1,0 +1,3 @@
+Charles Babbage (1791-1871) was an English mathematician and inventor who is known as the "father of the computer." He designed and proposed the concept of a programmable computing machine called the "Analytical Engine" in the 1830s, which was an early precursor to the modern computer. Babbage was also instrumental in the development of the first mechanical calculators, such as the "Difference Engine" and the "Analytical Engine," which used punch cards to input data and perform calculations automatically. Although Babbage was never able to complete his designs during his lifetime, his work laid the foundations for modern computing and has had a significant impact on the development of modern technology.
+
+source: https://en.wikipedia.org/wiki/Charles_Babbage
